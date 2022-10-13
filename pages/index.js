@@ -49,6 +49,7 @@ export default function Home({ isConnected }) {
 			<Head>
 				<title>Home Page</title>
 			</Head>
+			<br />
 			<div>Hallo hallo! this is my home page!</div>
 			{/* <div className={styles.container}> */}
 			{/* <Head> */}
